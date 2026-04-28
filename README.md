@@ -70,7 +70,10 @@ The goal is to detect **spikes, drops, and irregular trends** in transactional d
 - Year 2010 Data - https://github.com/Christopher-AR/Revenue-Anomaly-Detection/blob/main/Year%20-%202010%20Data.png
 - Year 2011 Data - https://github.com/Christopher-AR/Revenue-Anomaly-Detection/blob/main/Year%20-%202011%20Data.png
 - Anomalies on Spike - https://github.com/Christopher-AR/Revenue-Anomaly-Detection/blob/main/Anomalies%20on%20Spike.png
+- Anomalies on Drop - https://github.com/Christopher-AR/Revenue-Anomaly-Detection/blob/main/Anomalies%20on%20Drop.png
+- Normal Anomaly - https://github.com/Christopher-AR/Revenue-Anomaly-Detection/blob/main/Normal%20Anomaly.png
 - Weekend Data - https://github.com/Christopher-AR/Revenue-Anomaly-Detection/blob/main/Weekend%20Data.png
+- Weekday Data - https://github.com/Christopher-AR/Revenue-Anomaly-Detection/blob/main/Weekday%20Data.png
 
 ##  Connect
 If you found this useful, feel free to connect with me on LinkedIn!
